@@ -98,7 +98,7 @@ You can open any notebook directly in **Google Colab** without setting up a loca
 
 ## 📘 Documentation
 
-For additional documentation on FAIR² and Open Data Articles, visit [fair-squared.ai](https://fair2.ai).
+For additional documentation on FAIR² and Open Data Articles, visit [fair2.ai](https://fair2.ai).
 
 ## 🤝 Contribution Guidelines
 
