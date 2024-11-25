@@ -1,6 +1,6 @@
 # FAIR² Portal Open Jupyter Notebooks
 
-Welcome to the repository for **Open Jupyter Notebooks** supporting the **FAIR² Data Packages**. Each notebook provides an example of how to access and analyze the **FAIR² Data Package** associated with published **Open Data Articles**. These notebooks demonstrate workflows for interacting with FAIR²-compliant datasets, enabling researchers to explore, visualize, and integrate data into their research.
+Welcome to the repository for **Open Jupyter Notebooks** supporting published **FAIR² Data Packages**. Each notebook provides an example of how to access and analyze the **FAIR² Data Package** associated with their associated **Open Data Articles**. These notebooks demonstrate workflows for interacting with FAIR²-compliant datasets, enabling researchers to explore, visualize, and integrate data into their research.
 
 ## 📚 About FAIR² Data Packages
 
@@ -16,7 +16,6 @@ These data packages accompany **Open Data Articles** and are designed to make da
 
 - **Real-World Examples**: Demonstrations of how to access and analyze FAIR² Data Packages.
 - **Reproducible Workflows**: Step-by-step instructions for exploring and processing data.
-- **Interactive Visualizations**: Dynamic plots and charts to help make sense of the data.
 - **Integration Tutorials**: Examples of how to integrate FAIR² datasets into external tools, APIs, and machine learning workflows.
 
 ## 📂 Repository Structure
@@ -30,10 +29,8 @@ This structure allows easy identification of the associated Open Data Article.
 ```plaintext
 /
 ├── Author-Year-ShortDescription/  # Directory for a specific notebook
-│   ├── notebook.ipynb             # The Jupyter Notebook
-│   ├── README.md                  # Summary of the notebook and related data
-│   └── LICENSE                    # License for the notebook
-├── requirements.txt               # Python dependencies for running notebooks
+│   └── notebook.ipynb             # The Jupyter Notebook
+── requirements.txt               # Python dependencies for running notebooks
 ├── README.md                      # This file
 └── LICENSE.md                     # License for the repository
 ```
